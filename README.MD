@@ -1,4 +1,4 @@
-![](https://github.com/udot-a/rn-users-posts/raw/master/assets/icon.png) 
+![](https://github.com/udot-a/rn-users-posts/raw/main/assets/icon.png) 
 ## REACT NATIVE USERS POSTS
 to  run clone application 
 run ```nmp install```
@@ -14,4 +14,4 @@ Open it in Expo:<br/>
 
             
 
-![Иллюстрация к проекту](https://github.com/udot-a/rn-users-posts/raw/master/assets/screen.png)
+![Иллюстрация к проекту](https://github.com/udot-a/rn-users-posts/raw/main/assets/screenshot.png)
